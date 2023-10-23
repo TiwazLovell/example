@@ -1,10 +1,13 @@
 # Task Service
 
-## Swagger
+## Swagger documentation
 
-Endpoints for swagger
-
-```bash
+UI
+```
 swagger-ui/index.html
+```
+
+Documentation
+```
 v3/api-docs
 ```
