@@ -2,12 +2,12 @@
 
 ## Swagger documentation
 
-UI
+Endpoint for the UI
 ```
 swagger-ui/index.html
 ```
 
-Documentation
+Endpoint for the documentation
 ```
 v3/api-docs
 ```
